@@ -5,3 +5,4 @@ librosa
 soundfile
 sounddevice
 ipykernel
+imageio-ffmpeg
